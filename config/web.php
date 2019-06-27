@@ -14,7 +14,7 @@ $config = [
     'components' => [
         'request' => [
             // !!! insert a secret key in the following (if it is empty) - this is required by cookie validation
-            'cookieValidationKey' => 'WSdXSxd0IN9sV2TKPwOk3A31HjhTPmLb',
+            'cookieValidationKey' => 'tDgB0t2kkMQsc7BS11rlA5iKX7qy8kOU',
         ],
         'cache' => [
             'class' => 'yii\caching\FileCache',
